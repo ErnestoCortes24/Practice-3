@@ -68,4 +68,4 @@ Screenshot the image of the complete PBC board whith the attached electronic com
 
 ## Conclusion
 
-In this section, you should add the conclusions, suggestions, and/or problems of the laboratory activities. Each team member must add his/her own conclusion (5 lines as minimum for each member).
+In this practice, the instructions were very clear. I was able to do the conversion of the extensions that were required (.pro, .gbl and .drl). In practice I had no problem, wasted time, it was fast, it took less than ten minutes. For the moment, I could conclude that thanks to these softwares I could get to print the plate that was designed, since thanks to the information I collected from the Internet pages, it could be printed and everything would be compact.
