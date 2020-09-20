@@ -68,4 +68,5 @@ Screenshot the image of the complete PBC board whith the attached electronic com
 
 ## Conclusion
 
-In this practice, the instructions were very clear. I was able to do the conversion of the extensions that were required (.pro, .gbl and .drl). In practice I had no problem, wasted time, it was fast, it took less than ten minutes. For the moment, I could conclude that thanks to these softwares I could get to print the plate that was designed, since thanks to the information I collected from the Internet pages, it could be printed and everything would be compact. The pcb complies with the measures that were required from practice 2.
+In this practice, the instructions were very clear. I was able to do the conversion of the extensions that were required (.pro, .gbl and .drl). In practice I had no problem, wasted time, it was fast, it took less than ten minutes. For the moment, I could conclude that thanks to these softwares I could get to print the plate that was designed, since thanks to the information I collected from the Internet pages, it could be printed and everything would be compact. The pcb complies with the measures that were required from practice 2. What could improve is understanding each indication in the program, therefore, I did not understand 100%, I would need to observe the indications to do it again.
+ 
